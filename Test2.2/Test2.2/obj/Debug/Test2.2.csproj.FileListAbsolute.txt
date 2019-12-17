@@ -1,0 +1,6 @@
+C:\Users\jmong\source\repos\Test2.2\Test2.2\bin\Debug\Test2.2.exe.config
+C:\Users\jmong\source\repos\Test2.2\Test2.2\bin\Debug\Test2.2.exe
+C:\Users\jmong\source\repos\Test2.2\Test2.2\bin\Debug\Test2.2.pdb
+C:\Users\jmong\source\repos\Test2.2\Test2.2\obj\Debug\Test2.2.csprojAssemblyReference.cache
+C:\Users\jmong\source\repos\Test2.2\Test2.2\obj\Debug\Test2.2.exe
+C:\Users\jmong\source\repos\Test2.2\Test2.2\obj\Debug\Test2.2.pdb
